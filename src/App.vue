@@ -6,7 +6,7 @@ import AssistentAi from './components/AssistentAi.vue'
 
 <template>
   <Header />
-  <HelloWorld msg="Welcome to MillionRay!"/>
+  <HelloWorld msg="Welcome to MillionRay!!"/>
   <AssistentAi />
 </template>
 
