@@ -1,15 +1,9 @@
 <script setup lang="ts">
-  import Header from './components/Header.vue'
-  import HelloWorld from './components/HelloWorld.vue'
-  import AssistentAi from './components/AssistentAi.vue'
-  import Terms from './components/Terms.vue'
+  import AssistentAi from './components/AssistentAi.vue'  
 </script>
 
 <template>
-  <Header />
-  <HelloWorld msg="Bem-vindo! to Botify"/>
   <AssistentAi />
-  <Terms />
 </template>
 
 <style scoped>
