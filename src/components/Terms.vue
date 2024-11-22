@@ -1,18 +1,8 @@
 <script setup lang="ts">
-import { ref } from 'vue'
 
-defineProps<{ msg: string }>()
-
-const count = ref(0)
 </script>
 
 <template>
-  <h1>{{ msg }}</h1>
-
-  <div class="card">
-   
-  </div>
-
   <h1>Terms and Conditions</h1>
     <p>Welcome to Millionray.com!</p>
     <p>
@@ -113,7 +103,4 @@ const count = ref(0)
 </template>
 
 <style scoped>
-.read-the-docs {
-  color: #888;
-}
 </style>
