@@ -1,6 +1,6 @@
-# MillionRay App com IA
+# Botify App com IA
 
-This app has an AI that interacts with Real Estate Buyers and Sellers to close very nice deals!
+This app has an AI that interacts with clients!
 
 ## Vue 3 + TypeScript + Vite
 

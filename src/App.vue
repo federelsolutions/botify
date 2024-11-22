@@ -7,7 +7,7 @@
 
 <template>
   <Header />
-  <HelloWorld msg="Welcome to MillionRay!!"/>
+  <HelloWorld msg="Welcome to Botify"/>
   <AssistentAi />
   <Terms />
 </template>

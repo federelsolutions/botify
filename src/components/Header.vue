@@ -3,9 +3,6 @@
 
 <template>
   <div>
-    <a href="https://millionray.com" target="_blank">
-      <img src="../assets/MillionRay.png" class="logo" alt="MillionRay logo" />      
-    </a>
     <a href="https://vite.dev" target="_blank">
       <img src="../../public/vite.svg" class="logo" alt="Vite logo" />
     </a>

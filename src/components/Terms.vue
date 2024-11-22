@@ -4,20 +4,20 @@
 
 <template>
   <h1>Terms and Conditions</h1>
-    <p>Welcome to Millionray.com!</p>
+    <p>Welcome to Botify.com.br!</p>
     <p>
-        These terms and conditions outline the rules and regulations for the use of Millionray.com's Website, located at 
-        <a href="https://www.millionray.com">https://www.millionray.com</a>.
+        These terms and conditions outline the rules and regulations for the use of Botify.com.br's Website, located at 
+        <a href="https://www.Botify.com.br">https://www.Botify.com.br</a>.
     </p>
     <p>
-        By accessing this website, we assume you accept these terms and conditions. Do not continue to use Millionray.com 
+        By accessing this website, we assume you accept these terms and conditions. Do not continue to use Botify.com.br 
         if you do not agree to take all of the terms and conditions stated on this page. Our Terms and Conditions were 
         created with the help of the Terms And Conditions Generator and the Terms &amp; Conditions Generator.
     </p>
     <h2>Cookies</h2>
     <p>
-        We employ the use of cookies. By accessing Millionray.com, you agreed to use cookies in agreement with 
-        Millionray.com's <a href="#privacy-policy">Privacy Policy</a>.
+        We employ the use of cookies. By accessing Botify.com.br, you agreed to use cookies in agreement with 
+        Botify.com.br's <a href="#privacy-policy">Privacy Policy</a>.
     </p>
     <p>
         Most interactive websites use cookies to let us retrieve the user’s details for each visit. Cookies are used 
@@ -26,7 +26,7 @@
     </p>
     <h2>License</h2>
     <p>
-        The content on Millionray.com is provided on an “as-is” and “as-available” basis and is intended for non-commercial, 
+        The content on Botify.com.br is provided on an “as-is” and “as-available” basis and is intended for non-commercial, 
         informational purposes only, to educate and inform its website visitors about various topics.
     </p>
     <p>
@@ -35,12 +35,12 @@
         and/or trademark holder directly to request a licensed agreement.
     </p>
     <p>
-        By downloading any materials from Millionray.com, you agree to these Terms of Use and acknowledge that the 
-        materials you download could include technical, typographical, or photographic errors. Millionray.com does 
+        By downloading any materials from Botify.com.br, you agree to these Terms of Use and acknowledge that the 
+        materials you download could include technical, typographical, or photographic errors. Botify.com.br does 
         not warrant that any of the materials on its website are accurate, complete, or current.
     </p>
     <p>
-        The materials appearing on Millionray.com's website are not associated with or sponsored by the copyright 
+        The materials appearing on Botify.com.br's website are not associated with or sponsored by the copyright 
         and/or trademark holder unless explicitly stated.
     </p>
     <h2>Your Privacy</h2>
@@ -65,11 +65,11 @@
     </p>
     <h2>Links To Other Web Sites</h2>
     <p>
-        Our Service may contain links to third-party websites or services that are not owned or controlled by Millionray.com.
+        Our Service may contain links to third-party websites or services that are not owned or controlled by Botify.com.br.
     </p>
     <p>
-        Millionray.com has no control over, and assumes no responsibility for, the content, privacy policies, or 
-        practices of any third-party websites or services. You further acknowledge and agree that Millionray.com shall 
+        Botify.com.br has no control over, and assumes no responsibility for, the content, privacy policies, or 
+        practices of any third-party websites or services. You further acknowledge and agree that Botify.com.br shall 
         not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by 
         or in connection with the use of or reliance on any such content, goods, or services available on or through any 
         such websites or services.
